@@ -1,0 +1,24 @@
+{
+  "expo": {
+    "name": "Site Manager Pro",
+    "slug": "site-manager-pro",
+    "version": "2.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTabletMode": true,
+      "bundleIdentifier": "com.sitemanager.pro"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/icon.png",
+        "backgroundColor": "#1e40af"
+      },
+      "package": "com.sitemanager.pro",
+      "permissions": []
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
